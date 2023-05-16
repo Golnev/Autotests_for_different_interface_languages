@@ -1,1 +1,3 @@
 environments
+/.pytest_cache/
+/geckodriver.log
